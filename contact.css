@@ -49,7 +49,7 @@ body {
   /* Thank You Section */
 .thank-you-section {
     height: 100vh;
-    background-image: url("IMAGES/bg\ img.JPEG"); /* Replace with your image path */
+    background-image: url("./IMAGES/bgimg.JPEG"); /* Replace with your image path */
     background-size: cover;
     background-position: center;
     display: flex;
